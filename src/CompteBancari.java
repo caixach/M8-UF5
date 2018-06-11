@@ -55,5 +55,5 @@ public class CompteBancari {
         return resultat;
     }
     
-    System.out.println("saludo2");
+    System.out.println("Hola");
 }
